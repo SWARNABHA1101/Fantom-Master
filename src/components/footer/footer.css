@@ -1,0 +1,147 @@
+.footer {
+    /* height: 200px; */
+    position: relative;
+    color: white;
+    z-index: 111;
+    margin-top: -250px;
+
+}
+
+.footerImg {
+    width: 100%;
+    height: 800px;
+
+}
+
+.footerTop {
+    position: absolute;
+    /* background-color: #C25FFF; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    top: 25%;
+    width: 100%;
+
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-content h2 {
+    margin-bottom: 8px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.02em;
+}
+
+.footer-content p {
+    margin-bottom: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: -0.02em;
+}
+
+
+.FBton {
+    display: flex;
+    gap: 40px;
+    margin-bottom: 64px;
+    
+    
+
+}
+
+.FBton .Fbtn1 {
+    background: linear-gradient(134.5deg, #C25FFF 2.88%, #3D29D0 98.85%);
+    box-shadow: -2px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    padding: 4px 4px 4px 32px;
+}
+
+.FBton .Fbtn1 button {
+    background: transparent;
+    border: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+    color: white;
+
+}
+
+.FBton .Fbtn1 .arrowicons {
+    border: none;
+    background: transparent;
+    width: 34px;
+    height: 34px;
+
+}
+
+hr {
+    width: 72%;
+    height: 2px;
+
+    background: #D9D9D9;
+}
+
+.footeBottom {
+    position: absolute;
+    /* background-color: #C25FFF; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 55%;
+    gap: 12.5%;
+    width: 100%;
+    
+}
+.box ul{
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+ 
+
+}
+.box ul a{
+    color: white;
+ 
+
+}
+.box img{
+    width: 184.71px;
+    height: 40px;
+    margin-bottom: 30px;
+}
+
+.box h2{
+    margin-bottom: 8px;
+}
+.box li img{
+    width: 24px;
+    height: 24px;
+}
+.box li{
+    list-style: none;
+    display: flex;
+    gap: 16px;
+    justify-content: flex-end;
+}
+.footeBottom .box {
+    margin-bottom: 80px;
+}
+.box li{
+    margin-top: -20px;
+}

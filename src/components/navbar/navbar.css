@@ -1,0 +1,35 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+nav .left{
+display: flex;
+}
+nav ul{
+    display: flex;
+    gap: 24px;
+    padding-top: 27px;
+    
+}
+ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+.left img{
+   margin: 20px 40px;
+}
+.right{
+    margin-top: 27px;
+    margin-right: 40px;
+}
+.right button{
+    background: linear-gradient(134.5deg, #C25FFF 2.88%, #3D29D0 98.85%);
+border-radius: 20px;
+width: 168px;
+height: 39px;
+color: white;
+}
