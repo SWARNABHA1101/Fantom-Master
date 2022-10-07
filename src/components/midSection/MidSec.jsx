@@ -8,7 +8,7 @@ const MidSec = () => {
     return (
 
         <div className="midSec">
-            <img src="images/subtract.png" alt="" />
+            <img src="images/Subtract.png" alt="" />
             <div className="card1">
                 <div className="cardContents">
                     <div className="cardleft">
