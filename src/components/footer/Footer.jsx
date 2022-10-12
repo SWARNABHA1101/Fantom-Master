@@ -12,10 +12,10 @@ const Footer = () => {
             <div className="footerTop">
                 <div className="footer-content">
                     <h2>Interested in a career at FS MultiChain?</h2>
-                    <p>We are always looking out for exceptional talent, please click the button below for our current vacancies.</p>
+                    <p>We are always looking out for exceptional talent, see our open roles below.</p>
                     <div class="FBton">
                         <div class="Fbtn1">
-                            <button>Vacancies</button>
+                            <button>Open roles</button>
                             <FontAwesomeIcon icon={faCircleChevronRight} className="arrowicons" />
                         </div>
                     </div>
@@ -29,8 +29,8 @@ const Footer = () => {
                     <h2>FantomStarter</h2>
                     <ul>
                         <a href="#">About</a>
-                        <a href="#">litepaper</a>
-                        <a href="#">audit</a>
+                        <a href="#">Audit</a>
+                        <a href="#">Litepaper</a>
                         <a href="#">Scout Program</a>
                     </ul>
                 </div>
@@ -46,7 +46,6 @@ const Footer = () => {
                 <h2>Socils</h2>
                     <ul>
                         <a href="#">Twitter</a>
-                        <a href="#">Telegram</a>
                         <a href="#">Discord</a>
                         <a href="#">Github</a>
                         <a href="#">Blog</a>
