@@ -12,12 +12,12 @@ const Tiers = () => {
             <div className="res">
                 <div className="Tcontents">
                     <div className="tleft">
-                        <h1>Smart Subscription Investment Tiers</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-                        <h5>Start investing from for only 13,500FS</h5>
+                        <h1>Join the FSmart Club</h1>
+                        <p>Join the Web3 VC DAO that gets access to the hottest deals on the market with our investment subscription.</p>
+                        <h5>Start investing from $50</h5>
                         <div class="tBton">
                             <div class="tbtn1">
-                                <button>How to invest</button>
+                                <button>Pay with Apple Pay</button>
                                 <FontAwesomeIcon icon={faCircleChevronRight} className="arrowicons" />
                             </div>
                             <div class="tbtn1">
