@@ -10,11 +10,8 @@ const Header = () => {
         <div class="head-left">
             <h4>Audited. Automated. AI powered</h4>
             <h1>FS Investment Wallet</h1>
-                <p>Start investing in web3 native startups with FS wallet. With an easy to use mobile wallet app and a hardware wallet we area the most secure investment wallet on the market. 
-                  <br>
-                  <br>
-                    Get access to the hottest tokens and NFTs launches across L1s and L2s in a decentralized way with FS tokens and FS Key NFTs. Get in the FSmart Club.</p>
-                </div>
+            <p>Start investing in web3 native startups with FS wallet. With an easy to use mobile wallet app and a hardware wallet we area the most secure investment wallet on the market. Get access to the hottest tokens and NFTs launches across L1s and L2s in a decentralized way with FS tokens and FS Key NFTs. Get in the FSmart Club.</p>
+            </div>
             <div class="head-right">
                     <img src="images/head.png" alt=""/>
             </div>
