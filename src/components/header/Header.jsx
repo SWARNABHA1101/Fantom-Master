@@ -9,8 +9,8 @@ const Header = () => {
     <div class="upper">
         <div class="head-left">
             <h4>Audited. Automated. AI powered</h4>
-            <h1>Your investment wallet</h1>
-                <p>Start investing in web3 native crypto startups with FS wallet. With an easy to use mobile wallet app, we area the most secure investment wallet on the market. Get access to the hottest token and NFT deals across L1s and L2s in a decentralized way with FS tokens and FS Key NFTs</p>
+            <h1>FS Investment Wallet</h1>
+                <p>Start investing in web3 native startups with FS wallet. With an easy to use mobile wallet app and a hardware wallet we area the most secure investment wallet on the market. Get access to the hottest tokens and NFTs launches across L1s and L2s in a decentralized way with FS tokens and FS Key NFTs. Get in the FSmart Club.</p>
                 </div>
             <div class="head-right">
                     <img src="images/head.png" alt=""/>
@@ -18,7 +18,7 @@ const Header = () => {
     </div>
     <div class="lower">
         <div class="btn">
-            <button>Get the app</button>
+            <button>Open the app</button>
             <FontAwesomeIcon  icon={faCircleChevronRight} className="arrowicon" />
         </div>
         <div class="btn">
@@ -36,9 +36,6 @@ const Header = () => {
        
     </div>
     <div className="bottom">
-        <img src="images/fantom.png" alt="" />
-        <img src="images/fontom.png" alt="" />
-        <img src="images/fontom.png" alt="" />
         <img src="images/fontom.png" alt="" />
     </div>
 </div>
