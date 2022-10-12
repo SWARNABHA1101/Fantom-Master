@@ -19,7 +19,7 @@ const EasyAccessProjects = () => {
       <div className="EasyAccessProjects">
         <h1>Get access to the hottest NFTs and token sales</h1>
         <p>
-          Participate for free, or be part of the FSmart Club to invest at better prices in the hottest NFT mints and token launches right from your mobile invesmtnet wallet.
+          Participate for free, or be part of the FSmart Club to invest in earlier rounds at better prices in the hottest NFT mints and token launches right from your mobile investment wallet.
         </p>
         <div className="cards">
           <div className="card">
