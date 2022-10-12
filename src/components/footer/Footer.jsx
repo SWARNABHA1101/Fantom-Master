@@ -34,7 +34,7 @@ const Footer = () => {
                         <a href="#">Scout Program</a>
                     </ul>
                 </div>
-                <div className="box"}>
+                <div className="box" style={{marginTop:"60px"}}>
                 <h2>Help</h2>
                     <ul>
                         <a href="#">FAQ</a>
@@ -42,7 +42,7 @@ const Footer = () => {
                         <a href="#">Careers</a>
                     </ul>
                 </div>
-                <div className="box"}>
+                <div className="box" style={{marginTop:"60px"}}>
                 <h2>Socials</h2>
                     <ul>
                         <a href="#">Twitter</a>
