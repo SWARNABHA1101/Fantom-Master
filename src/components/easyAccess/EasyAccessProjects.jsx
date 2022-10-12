@@ -17,12 +17,9 @@ const EasyAccessProjects = () => {
     <div className="container">
       <img src="images/Group 97.jpg" alt="" className="img1"/>
       <div className="EasyAccessProjects">
-        <h1>Easy Access Projects</h1>
+        <h1>Get access to the hottest NFTs and token sales</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
-          deserunt aut quis alias voluptate ipsa recusandae natus cupiditate
-          vero! Porro, magnam aspernatur? Aliquid, quisquam! Suscipit voluptate
-          voluptatibus amet ad reprehenderit.
+          Participate for free, or be part of the FSmart Club to invest at better prices in the hottest NFT mints and token launches right from your mobile invesmtnet wallet.
         </p>
         <div className="cards">
           <div className="card">
@@ -154,7 +151,7 @@ const EasyAccessProjects = () => {
                 <span>$MGCT</span>
                 <button>Post IDO Review</button>
                 <div className="usd">
-                  <p>Public Total Rais USD</p>
+                  <p>Public Total Raise USD</p>
                   <span>$125,000</span>
                 </div>
                 <div>
