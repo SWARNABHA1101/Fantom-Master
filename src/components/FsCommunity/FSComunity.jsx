@@ -11,10 +11,11 @@ const FSComunity = () => {
         <p>
           FS token holders get to be part of the FSmart Club while the Liquid subscription is enabling for them earning opportunities with fixed and variable APY.
         </p>
-          <div className="Earn $CHRP">
+        <div className="Comunitycards">
+          <div className="Comunitycard">
             <div className="img">{/* <img src={image} alt="" /> */}</div>
             <div className="ComunitycardBottom">
-              <h1>How-to</h1>
+              <h1>Earn USDC</h1>
               <p>FS Project Post IDO Review:</p>
               <span>$MGCT &gt; Dec 2021</span>
               <div class="fBton">
@@ -28,10 +29,10 @@ const FSComunity = () => {
               </div>
             </div>
           </div>
-          <div className="Earn USDC">
+          <div className="Comunitycard">
             <div className="img">{/* <img src={image} alt="" /> */}</div>
             <div className="ComunitycardBottom">
-              <h1>How-to</h1>
+              <h1>Earn MCRT</h1>
               <p>FS Project Post IDO Review:</p>
               <span>$MGCT &gt; Dec 2021</span>
               <div class="fBton">
@@ -45,10 +46,10 @@ const FSComunity = () => {
               </div>
             </div>
           </div>
-          <div className="Earn FS fixed rate">
+          <div className="Comunitycard">
             <div className="img">{/* <img src={image} alt="" /> */}</div>
             <div className="ComunitycardBottom">
-              <h1>How-to</h1>
+              <h1>Earn FS</h1>
               <p>FS Project Post IDO Review:</p>
               <span>$MGCT &gt; Dec 2021</span>
               <div class="fBton">
