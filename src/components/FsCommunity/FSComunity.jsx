@@ -32,6 +32,23 @@ const FSComunity = () => {
           <div className="Comunitycard">
             <div className="img">{/* <img src={image} alt="" /> */}</div>
             <div className="ComunitycardBottom">
+              <h1>Mint FS Keys</h1>
+              <p>FS Project Post IDO Review:</p>
+              <span>$MGCT &gt; Dec 2021</span>
+              <div class="fBton">
+                <div class="fbtn1">
+                  <button>How to invest</button>
+                  <FontAwesomeIcon
+                    icon={faCircleChevronRight}
+                    className="arrowicons"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="Comunitycard">
+            <div className="img">{/* <img src={image} alt="" /> */}</div>
+            <div className="ComunitycardBottom">
               <h1>Earn MCRT</h1>
               <p>FS Project Post IDO Review:</p>
               <span>$MGCT &gt; Dec 2021</span>
