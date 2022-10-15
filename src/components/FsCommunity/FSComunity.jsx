@@ -7,18 +7,15 @@ const FSComunity = () => {
   return (
     <div className="Comunitycontainer">
       <div className="FSComunity">
-        <h1>FS Comunity</h1>
+        <h1>Earn with FS</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
-          incidunt qui quaerat similique quia blanditiis debitis optio possimus
-          aliquam, atque dicta, dolorem tenetur repellat porro. Provident
-          asperiores velit praesentium maxime!
+          FS token holders get to be part of the FSmart Club while the Liquid subscription is enabling for them earning opportunities with fixed and variable APY.
         </p>
         <div className="Comunitycards">
           <div className="Comunitycard">
             <div className="img">{/* <img src={image} alt="" /> */}</div>
             <div className="ComunitycardBottom">
-              <h1>Become a FS Scout</h1>
+              <h1>Earn USDC</h1>
               <p>FS Project Post IDO Review:</p>
               <span>$MGCT &gt; Dec 2021</span>
               <div class="fBton">
@@ -35,7 +32,7 @@ const FSComunity = () => {
           <div className="Comunitycard">
             <div className="img">{/* <img src={image} alt="" /> */}</div>
             <div className="ComunitycardBottom">
-              <h1>Become a FS Scout</h1>
+              <h1>Mint FS Keys</h1>
               <p>FS Project Post IDO Review:</p>
               <span>$MGCT &gt; Dec 2021</span>
               <div class="fBton">
@@ -52,7 +49,7 @@ const FSComunity = () => {
           <div className="Comunitycard">
             <div className="img">{/* <img src={image} alt="" /> */}</div>
             <div className="ComunitycardBottom">
-              <h1>Become a FS Scout</h1>
+              <h1>Earn MCRT</h1>
               <p>FS Project Post IDO Review:</p>
               <span>$MGCT &gt; Dec 2021</span>
               <div class="fBton">
@@ -69,7 +66,7 @@ const FSComunity = () => {
           <div className="Comunitycard">
             <div className="img">{/* <img src={image} alt="" /> */}</div>
             <div className="ComunitycardBottom">
-              <h1>Become a FS Scout</h1>
+              <h1>Earn FS</h1>
               <p>FS Project Post IDO Review:</p>
               <span>$MGCT &gt; Dec 2021</span>
               <div class="fBton">

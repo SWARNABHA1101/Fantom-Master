@@ -8,15 +8,15 @@ const Navbar = () => {
         <div class="left">
                 <img src="images/logo.png" alt=""/>
                 <ul>
-                    <li><a href="#">Home</a></li>
                     <li><a href="#">Projects</a></li>
-                    <li><a href="#">Litepaper</a></li>
+                    <li><a href="#">FSmart Club</a></li>
+                    <li><a href="#">Earn</a></li>
                     <li><a href="#">Blog</a></li>
-                    <li><a href="#">Apply for IDO</a></li>
+                    <li><a href="#">Web3 Accelerator Program</a></li>
                 </ul>
             </div>
             <div class="right">
-                <button>Connect wallet</button>
+                <button>Open the app</button>
             </div>
     </nav>
 </div>
